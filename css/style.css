@@ -748,6 +748,10 @@ h6 {
     text-align: right;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 /* Section Headings */
 
 .section-heading {
