@@ -783,6 +783,10 @@ h6 {
   text-align: right;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 /* Section Headings */
 
 .section-heading {
@@ -963,8 +967,8 @@ blockquote {
 }
 
 .testimonial img {
-  max-height: 120px;
-  border-radius: 250em;
+    max-height: 160px;
+    border-radius: 50px;
 }
 
 .testimonial footer {
