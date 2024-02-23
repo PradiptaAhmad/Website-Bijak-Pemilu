@@ -41,9 +41,9 @@ a:hover, #header.nav-solid nav a:hover {
     background: #f16060;
 }
 
-.pricing-block-content:hover {
+/* .pricing-block-content:hover {
     border-color:#f16060;
-}
+} */
 
 
 /*------------------------------------------------------------------------------------------*/
@@ -278,10 +278,10 @@ h6 {
 
 /* Button Hover Color */
 
-.button:hover,  input[type="submit"]:hover {
+/* .button:hover,  input[type="submit"]:hover {
     border-color:#f16060;
     color:#f16060;
-}
+} */
 
 
 /* ----------Banner Buttons---------- */
