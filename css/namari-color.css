@@ -128,6 +128,15 @@ a:hover, #header.nav-solid nav a:hover {
     background-size:cover;
 }
 
+/* Add a media query for mobile devices */
+@media only screen and (max-width: 768px) {
+    /* Select the banner element and remove its background */
+    #banner {
+        background: none;
+    }
+}
+
+
 
 /*------------------------------------------------------------------------------------------*/
 /* 5. Typography */
